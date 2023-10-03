@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chayansurana3/P10-Multi-Step-Form.git/static/css/main.c02dc21d.css",
-    "main.js": "/chayansurana3/P10-Multi-Step-Form.git/static/js/main.214253a2.js",
-    "static/media/bg-sidebar-desktop.svg": "/chayansurana3/P10-Multi-Step-Form.git/static/media/bg-sidebar-desktop.6918153f38678372ceb1.svg",
-    "static/media/bg-sidebar-mobile.svg": "/chayansurana3/P10-Multi-Step-Form.git/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a.svg",
-    "index.html": "/chayansurana3/P10-Multi-Step-Form.git/index.html",
-    "main.c02dc21d.css.map": "/chayansurana3/P10-Multi-Step-Form.git/static/css/main.c02dc21d.css.map",
-    "main.214253a2.js.map": "/chayansurana3/P10-Multi-Step-Form.git/static/js/main.214253a2.js.map"
+    "main.css": "/chayansurana3/P10-Multi-Step-Form/static/css/main.957756e5.css",
+    "main.js": "/chayansurana3/P10-Multi-Step-Form/static/js/main.0f383c8b.js",
+    "static/media/bg-sidebar-desktop.svg": "/chayansurana3/P10-Multi-Step-Form/static/media/bg-sidebar-desktop.6918153f38678372ceb1.svg",
+    "static/media/bg-sidebar-mobile.svg": "/chayansurana3/P10-Multi-Step-Form/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a.svg",
+    "index.html": "/chayansurana3/P10-Multi-Step-Form/index.html",
+    "main.957756e5.css.map": "/chayansurana3/P10-Multi-Step-Form/static/css/main.957756e5.css.map",
+    "main.0f383c8b.js.map": "/chayansurana3/P10-Multi-Step-Form/static/js/main.0f383c8b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c02dc21d.css",
-    "static/js/main.214253a2.js"
+    "static/css/main.957756e5.css",
+    "static/js/main.0f383c8b.js"
   ]
 }
