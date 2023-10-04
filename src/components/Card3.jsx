@@ -40,7 +40,7 @@ function Card3(props) {
                 </button>
                 <button className="step3Btn" >
                     <div className="step3BtnCheck" id="check2" onClick={handleCheckMarkClick}><svg xmlns="http://www.w3.org/2000/svg" width="12" height="9" viewBox="0 0 12 9"><path fill="none" stroke="#FFF" stroke-width="2" d="m1 4 3.433 3.433L10.866 1" /></svg></div>
-                    <div className="step3BtnDetails" style={{marginLeft: '30%'}}>
+                    <div className="step3BtnDetails" id="step3BtnSecond">
                         <h2 className="step3BtnHeading">Larger storage</h2>
                         <h4 className="step3BtnSubHeading">Extra 1TB of cloud save</h4>
                         <p className="step3BtnPrice">+$2/mo</p>

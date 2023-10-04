@@ -103,7 +103,7 @@ input{
   padding: 2%;
   cursor: pointer;
   background-color: white;
-  margin-bottom: 10%;
+  margin-bottom: 5%;
 }
 
 #step2Offer{
@@ -380,6 +380,9 @@ input{
     flex-direction: column;
     float: left;
     margin: 0% 10% 0% 25%;
+  }
+  #step3BtnSecond{
+    margin-left: 30%;
   }
   .step3BtnHeading{
     margin: 0% 0% 0% 5%;
