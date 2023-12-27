@@ -298,10 +298,11 @@ input{
     display: block;
     background-image: url(../assets/images/bg-sidebar-desktop.svg);
     background-repeat: no-repeat;
-    height: 500vh;
+    height: 100vh;
     float: left;
     padding: 2%;
     width: 15%;
+    object-fit: cover;
   }
   .headerWrapper{
     display: none;
