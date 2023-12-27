@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/P10-Multi-Step-Form/static/css/main.51c490b7.css",
+    "main.css": "/P10-Multi-Step-Form/static/css/main.4132e8bd.css",
     "main.js": "/P10-Multi-Step-Form/static/js/main.01ad606f.js",
     "static/media/bg-sidebar-desktop.svg": "/P10-Multi-Step-Form/static/media/bg-sidebar-desktop.6918153f38678372ceb1.svg",
     "static/media/bg-sidebar-mobile.svg": "/P10-Multi-Step-Form/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a.svg",
     "index.html": "/P10-Multi-Step-Form/index.html",
-    "main.51c490b7.css.map": "/P10-Multi-Step-Form/static/css/main.51c490b7.css.map",
+    "main.4132e8bd.css.map": "/P10-Multi-Step-Form/static/css/main.4132e8bd.css.map",
     "main.01ad606f.js.map": "/P10-Multi-Step-Form/static/js/main.01ad606f.js.map"
   },
   "entrypoints": [
-    "static/css/main.51c490b7.css",
+    "static/css/main.4132e8bd.css",
     "static/js/main.01ad606f.js"
   ]
 }
