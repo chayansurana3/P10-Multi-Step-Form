@@ -10,7 +10,7 @@ function Card1(props) {
 
     const handleNameChange = (event) => {
         const newName = event.target.value;
-        const namePattern = /^[a-zA-Z\s]+$/;
+        const namePattern = /^[a-zA-Z\s]+$/; 
         const isValid = namePattern.test(newName);
         setName(newName);
         setIsNameValid(isValid); 
